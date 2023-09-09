@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=recipe-server.settings",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "authtoken",
+        "recipeapi"
+    ]
+}
